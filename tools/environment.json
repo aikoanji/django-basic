@@ -1,0 +1,14 @@
+{
+	"id": "44c08a66-3a7f-4a09-a4bd-64514ae7dc9f",
+	"name": "Learning Django",
+	"values": [
+		{
+			"key": "local",
+			"value": "localhost:9000",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-05-30T04:48:16.801Z",
+	"_postman_exported_using": "Postman/7.25.0"
+}
